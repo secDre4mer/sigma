@@ -3556,3 +3556,15 @@ https://blog.redteam.pl/2020/06/black-kingdom-ransomware.html
 https://www.manageengine.com/products/desktop-central/os-imaging-deployment/media-is-write-protected.html
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4706
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
+https://twitter.com/ReneFreingruber/status/1172244989335810049
+https://github.com/netero1010/EDRSilencer
+https://www.cve.org/CVERecord?id=CVE-2024-1708
+https://strontic.github.io/xcyclopedia/library/iexpress.exe-D594B2A33EFAFD0EABF09E3FDC05FCEA.html
+https://github.com/amjcyber/EDRNoiseMaker
+https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
+https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
+https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
+https://isc.sans.edu/diary/Microsoft+BITS+Used+to+Download+Payloads/21027
+https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
+https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/
+https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
