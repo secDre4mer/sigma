@@ -3556,3 +3556,17 @@ https://blog.redteam.pl/2020/06/black-kingdom-ransomware.html
 https://www.manageengine.com/products/desktop-central/os-imaging-deployment/media-is-write-protected.html
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4706
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
+https://akhere.hashnode.dev/hunting-unsigned-dlls-using-kql
+https://www.virustotal.com/gui/file/6bb4cdbaef03b732a93559a58173e7f16b29bfb159a1065fae9185000ff23b4b
+https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1903/W10_1903_Pro_20200714_18362.959/WEPExplorer/Microsoft-Windows-WindowsUpdateClient.xml
+https://github.com/lkys37en/Start-ADEnum/blob/5b42c54215fe5f57fc59abc52c20487d15764005/Functions/Start-ADEnum.ps1#L680
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
+https://support.atlassian.com/security-and-access-policies/docs/export-user-accounts
+https://reconshell.com/winpwn-tool-for-internal-windows-pentesting-and-ad-security/
+https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-63---disable-remote-desktop-anti-alias-setting-through-registry
+https://news.ycombinator.com/item?id=29504755
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
+https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mint-sandstorm-campaign-targeting-high-profile-individuals-at-universities-and-research-orgs/
+https://twitter.com/MsftSecIntel/status/1737895710169628824
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
